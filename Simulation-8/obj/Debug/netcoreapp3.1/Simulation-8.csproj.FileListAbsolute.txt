@@ -1,0 +1,16 @@
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\bin\Debug\netcoreapp3.1\Simulation-8.exe
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\bin\Debug\netcoreapp3.1\Simulation-8.deps.json
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\bin\Debug\netcoreapp3.1\Simulation-8.runtimeconfig.json
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\bin\Debug\netcoreapp3.1\Simulation-8.runtimeconfig.dev.json
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\bin\Debug\netcoreapp3.1\Simulation-8.dll
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\bin\Debug\netcoreapp3.1\Simulation-8.pdb
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.csproj.AssemblyReference.cache
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation_8.Form1.resources
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation_8.Properties.Resources.resources
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.csproj.GenerateResource.cache
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.AssemblyInfoInputs.cache
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.AssemblyInfo.cs
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.csproj.CoreCompileInputs.cache
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.dll
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.pdb
+C:\Users\liza_\source\repos\Simulation-8\Simulation-8\obj\Debug\netcoreapp3.1\Simulation-8.genruntimeconfig.cache
